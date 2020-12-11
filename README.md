@@ -1,7 +1,7 @@
 ## Hi there, I'm Igor Souza
 
 ![GitHub followers](https://img.shields.io/github/followers/igormcsouza?style=social)
-[![Linkedin: igorsouza](https://img.shields.io/badge/-igormcsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/igormcsouza/)](https://www.linkedin.com/in/anmol-p-singh/)
+[![Linkedin: igorsouza](https://img.shields.io/badge/-igormcsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/igormcsouza/)](https://www.linkedin.com/in/igormcsouza/)
 [![website](https://img.shields.io/badge/mywebsite-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://igormcsouza.github.io/)](https://igormcsouza.github.io/)
 
 I'm a data scientist and a Full Stack Developer. I love playing basketball and guitar. I've done many projects on machine learning and most recently on a solution for Operational Reaserch problems. My motivation is to improve the enterprise's processes which as they strive to diminish their spents and raise their gains.
