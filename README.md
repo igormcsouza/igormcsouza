@@ -6,8 +6,8 @@
 
 I'm a data scientist and a Full Stack Developer. I love playing basketball and guitar. I've done many projects on machine learning and most recently on a solution for Operational Reaserch problems. My motivation is to improve the enterprise's processes which as they strive to diminish their spents and raise their gains.
 
-- 🔭 I’m currently working at **Dell-Lead**
-- 🌱 I’m currently learning **all about Data Science**
+- 🔭 I’m currently working at **[Liber Capital](https://www.libercapital.com.br/)** 
+- 🌱 I’m currently learning **all about Data Science and Web Development**
 - 💬 Ask me about **anything on python I'll be glad to help**
 - ⚡ Fun fact: **I used to hate python! Now I love it!!**
 
