@@ -1,8 +1,6 @@
 ## Hi there, I'm Igor Souza
 
 ![GitHub followers](https://img.shields.io/github/followers/igormcsouza?style=social)
-[![Linkedin: igorsouza](https://img.shields.io/badge/-igormcsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/igormcsouza/)](https://www.linkedin.com/in/igormcsouza/)
-[![website](https://img.shields.io/badge/mywebsite-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://igormcsouza.github.io/)](https://igormcsouza.github.io/)
 
 I'm a data scientist and a Full Stack Developer. I love playing basketball and guitar. I've done many projects on machine learning and most recently on a solution for Operational Reaserch problems. My motivation is to improve the enterprise's processes which as they strive to diminish their spents and raise their gains.
 
@@ -35,5 +33,25 @@ I'm a data scientist and a Full Stack Developer. I love playing basketball and g
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=igormcsouza&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormcsouza&hide=TeX&layout=compact)
+# GitHub Stats
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=igormcsouza&show_icons=true&locale=en&theme=tokyonight&count_private=true"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://streak-stats.demolab.com/?user=igormcsouza&theme=tokyonight"
+          alt="GitHub Stats"
+        />
+      </td>
+    </tr>
+  </thead>
+</table>
+
+# Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormcsouza/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/igormcsouza) <a href='https://igormcsouza.github.io/' target="_blank"><img alt='webmoney' src='https://img.shields.io/badge/My_Website-100000?style=for-the-badge&logo=webmoney&logoColor=white&labelColor=19A000&color=19A000'/></a>
